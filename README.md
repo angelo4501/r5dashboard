@@ -2,7 +2,7 @@
 
 ## Project info
 
-DSWD Scale-Up Results Dashboard for Western Visayas Region. Track validation progress for Antique, Capiz, and Iloilo provinces.
+DSWD Scale-Up Results Dashboard for BICOL REGION.
 
 ## How can I edit this code?
 
